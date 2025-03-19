@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 
 
-Meu nome é Marcelo Paludetto
+Meu nome é Mateus
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
@@ -10,6 +10,6 @@ Meu nome é Marcelo Paludetto
 
 mateus.klipe@escola.pr.gov.br
 
-@_msiilvax
+@mateusklipe_1
 
 ![](https://media.tenor.com/IJ1n8eXs-zIAAAAC/ice-age-sid.gif)
